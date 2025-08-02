@@ -232,3 +232,6 @@ env/
 
 # macOS system files
 .DS_Store
+
+note.txt
+# This file is used to track the Development Status for internal purposes.
