@@ -1,0 +1,8 @@
+1. 🔁 Send real WhatsApp replies via Twilio?
+Replace print(...) with actual API call to Twilio so your user sees a message on WhatsApp.
+
+2. 🧠 Add OpenAI for dynamic health plan generation?
+Once user completes onboarding, use OpenAI to send personalized workout/diet suggestions.
+
+3. ⏰ Set up daily reminder system?
+Use APScheduler or Celery to send WhatsApp nudges (e.g., “Did you complete your workout today?”)
